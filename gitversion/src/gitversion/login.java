@@ -25,7 +25,8 @@ public class login {
         
         d.findElement(By.xpath("//span[text()='Login']")).click();
         Thread.sleep(2000);
-        
+        d.findElement(By.xpath("//span[text()='Login']")).click();
+        Thread.sleep(2000);
 //        d.findElement(By.xpath("//span[text()='New Company']")).click();
 //        Thread.sleep(1000);
 
