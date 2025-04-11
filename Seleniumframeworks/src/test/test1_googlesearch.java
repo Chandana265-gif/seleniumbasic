@@ -16,7 +16,7 @@ public class test1_googlesearch {
  
 	}
 	
-	
+	//Elements are used inside the script
 	public static void googlesearch()
 	{
 		String key="webdriver.chrome.driver";
